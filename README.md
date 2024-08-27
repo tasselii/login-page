@@ -27,11 +27,11 @@ Este projeto é uma aplicação de login desenvolvida com **Java** no back-end e
 
 <br/>
 
-![Tela de Login](images/login-screen.png)
+![LoginPage_page-0001](https://github.com/user-attachments/assets/28b9df7a-0054-4755-a04d-ad2445219bd4)
 
 <br/>
 
-![Tela de Registro](images/register-screen.png)
+![LoginPage2_page-0001](https://github.com/user-attachments/assets/bd477eaa-d0a9-42f4-9b99-f29ddeaf90e6)
 
 
 
