@@ -24,9 +24,10 @@ Este projeto é uma aplicação de login desenvolvida com **Java** no back-end e
   - Design responsivo
   - Validação de campos de entrada
   - Mensagens de erro amigáveis
- 
 
 <br/>
+
+![Descrição da Imagem](img/LoginPage.pdf)
 
 <br/>
 
